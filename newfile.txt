@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hello guys
-=======
-Created to gitbranch1
->>>>>>> gitbranch1
